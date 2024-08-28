@@ -1,0 +1,61 @@
+body {
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    height: 100vh; /* Full viewport height */
+}
+
+#container {/* Width of the container relative to the viewport */
+    max-width: 1200px; /* Maximum width of the container */
+    background-color: rgba(255, 255, 255, 0);
+    position: relative; /* Establishes positioning context for children */
+}
+
+#image-container {
+    position: relative; /* Position SVG absolutely within this container */
+}
+
+#image {
+    width: 100%; /* Ensure the image fills the container */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Remove extra space below the image */
+}
+
+#monitor {
+    position: absolute; /* Position SVG on top of the image */
+    top: 56%; /* Adjust top position */
+    left: 20%; /* Adjust left position */
+    z-index: 10; /* Ensure SVG is above the image */
+}
+
+#monitorvector:hover {
+    fill: rgba(0, 0, 255, 0); /* Hover effect */
+}
+
+#typewriter {
+    position: absolute; /* Position SVG on top of the image */
+    clip-path: polygon(46% 27%, 100% 27%, 100% 100%, 0 100%);
+    top: 57%; /* Adjust top position */
+    left: 36.3%; /* Adjust left position */
+    z-index: 10; /* Ensure SVG is above the image */
+}
+
+#typewritervector:hover{
+    fill: rgba(22, 22, 165, 0); /* Hover effect */
+}
+
+#cv {
+    position: absolute; /* Position SVG on top of the image */
+    clip-path: polygon(8% 15%, 56% 10%, 71% 92%, 23% 98%);
+    top: 37%; /* Adjust top position */
+    left: 62%; /* Adjust left position */
+    z-index: 10; /* Ensure SVG is above the image */
+}
+
+#cvvector:hover{
+    fill: rgba(0, 0, 255, 0); /* Hover effect */
+}

@@ -1,0 +1,8 @@
+---
+layout: cityguideslayout.html
+title: City Guides
+---
+{% for cityguide in collections.cityguide %}
+<h2><a href="{{ cityguide.url }}">{{ cityguide.data.title }} </a></h2>
+<div>{{ cityguide.data.description }}</div>
+{% endfor %}
