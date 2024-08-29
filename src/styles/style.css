@@ -39,6 +39,7 @@ ul {
 
 li {
     display: inline;
+    padding-inline: 0.4em;
 }
 
 li:hover {
@@ -85,6 +86,17 @@ li:hover {
 
 #typewritervector:hover{
     fill: rgba(22, 22, 165, 0); /* Hover effect */
+}
+
+#city{
+    position: absolute;
+    top: 34.9%; /* Adjust top position */
+    left: 28.3%; /* Adjust left position */
+    z-index: 10; /* Ensure SVG is above the image */
+}
+
+#city:hover{
+    fill: rgba(0, 0, 255, 0); /* Hover effect */  
 }
 
 #cv {

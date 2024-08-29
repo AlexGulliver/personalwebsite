@@ -20,9 +20,18 @@ typewriterRect.addEventListener("mouseout", function() {
     background.src = 'assets/background.gif';
 });
 
+const cityRect = document.getElementById("city");
+cityRect.addEventListener("mouseover", function() {
+    background.src = 'assets/backgroundcity.png';
+});
+
+cityRect.addEventListener("mouseout", function() {
+    background.src = 'assets/background.gif';
+});
+
 const cvRect = document.getElementById("cv-vector");
 cvRect.addEventListener("mouseover", function() {
-    background.src = 'assets/backgroundcv.png';
+    background.src = 'assets/backgroundabout.png';
 });
 
 cvRect.addEventListener("mouseout", function() {
