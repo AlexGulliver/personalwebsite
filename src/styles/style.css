@@ -3,14 +3,47 @@ body {
     color: white;
     margin: 0;
     padding: 0;
-    display: flex;
     justify-content: center; /* Center content horizontally */
     align-items: center; /* Center content vertically */
     height: 100vh; /* Full viewport height */
+    overflow-y: hidden;
+}
+
+#navbar {
+    margin: auto;
+    background-color: rgb(0, 0, 0);
+    height: 1em;
+    font-size: 2.5em;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(101, 101, 101);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+li {
+    display: inline;
+}
+
+li:hover {
+    background-color: white;
 }
 
 #container {/* Width of the container relative to the viewport */
-    max-width: 1200px; /* Maximum width of the container */
+    top: 1em;
+    justify-content: center;
+    margin: auto;
+    max-width: 1100px; /* Maximum width of the container */
     background-color: rgba(255, 255, 255, 0);
     position: relative; /* Establishes positioning context for children */
 }
