@@ -9,13 +9,19 @@ body {
     overflow-y: hidden;
 }
 
+.tiny5-regular {
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
 #navbar {
     margin: auto;
     background-color: rgb(0, 0, 0);
     height: 1em;
     font-size: 2.5em;
     text-decoration: none;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Tiny5;
     color: rgb(0, 0, 0);
     text-align: center;
 }
