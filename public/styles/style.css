@@ -143,3 +143,11 @@ a:hover {
 #cvvector:hover{
     fill: rgba(0, 0, 255, 0); /* Hover effect */
 }
+
+#aboutoutline {
+    width: 100%; /* Ensure the image fills the container */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Remove extra space below the image */ 
+    position: absolute;
+    visibility: hidden;   
+}

@@ -35,10 +35,11 @@ typewriterRect.addEventListener("mouseout", function() {
 
 // About 
 const cvRect = document.getElementById("cv-vector");
+const aboutOutline = document.getElementById("aboutoutline");
 cvRect.addEventListener("mouseover", function() {
-    background.src = 'assets/backgroundabout.png';
+    aboutOutline.style.visibility = "visible";
 });
 
 cvRect.addEventListener("mouseout", function() {
-    background.src = 'assets/background.gif';
+    aboutOutline.style.visibility = "hidden";
 });
