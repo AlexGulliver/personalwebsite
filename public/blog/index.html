@@ -13,13 +13,20 @@
         <h1 id="title">Blog</h1>
         <div></div>
     </div>
-    {% for blog in collections.blog reversed %}
+    
     <div id="contentbox">
-        <a id="link" href="{{ blog.url }}">
-            <h2>{{ blog.data.title }}</h2>
-            <h2>{{ blog.data.date | date: "%Y-%m-%d"  }}</h2>
+        <a id="link" href="/blog/themakingofthewebsite/">
+            <h2>The making of this website</h2>
+            <h2>2024-08-27</h2>
         </a>
     </div>
-    {% endfor %}    
+    
+    <div id="contentbox">
+        <a id="link" href="/blog/documentinglife/">
+            <h2>Documenting my life</h2>
+            <h2>2023-11-19</h2>
+        </a>
+    </div>
+        
 </body>
 </html>
