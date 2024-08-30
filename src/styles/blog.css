@@ -4,15 +4,8 @@
             box-sizing: border-box;
   } 
 
-:root {
-    --primary: rgb(190, 204, 215);
-    --secondary: rgb(17, 19, 21);
-    --accent: rgb(231, 231, 231);
-    --background:rgb(190, 204, 215); 
-}
-
 body {
-    background-color: var(--secondary)
+    background-color: rgb(17, 19, 21);
 }
 
 #titlebox {

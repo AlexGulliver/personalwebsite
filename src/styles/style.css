@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: var(--background);
     margin: 0;
     padding: 0;
     justify-content: center; /* Center content horizontally */
@@ -16,7 +16,7 @@ body {
 
 #navbar {
     margin: auto;
-    background-color: rgb(0, 0, 0);
+    background-color: var(--background);
     height: 1em;
     font-size: 2.5em;
     text-decoration: none;
@@ -49,7 +49,6 @@ a:hover {
     justify-content: center;
     margin: auto;
     max-width: 1100px; /* Maximum width of the container */
-    background-color: rgba(255, 255, 255, 0);
     position: relative; /* Establishes positioning context for children */
 }
 
