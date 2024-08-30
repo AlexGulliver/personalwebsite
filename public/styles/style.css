@@ -112,14 +112,15 @@ a:hover {
 
 #typewriter {
     position: absolute; /* Position SVG on top of the image */
-    clip-path: polygon(46% 27%, 100% 27%, 100% 100%, 0 100%);
+    clip-path: polygon(34% 54%, 100% 54%, 100% 100%, 0 100%);
     top: 57%; /* Adjust top position */
     left: 36.3%; /* Adjust left position */
     z-index: 10; /* Ensure SVG is above the image */
+    background-color: rgba(0, 0, 255, 0);
 }
 
 #typewritervector:hover{
-    fill: rgba(22, 22, 165, 0); /* Hover effect */
+    fill: rgba(13, 13, 218, 0); /* Hover effect */
 }
 
 #typewriteroutline {
