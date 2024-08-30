@@ -14,6 +14,8 @@ body {
     font-style: normal;
   }
 
+/* NAVBAR */
+
 #navbar {
     margin: auto;
     background-color: var(--background);
@@ -44,6 +46,8 @@ a:hover {
     color: rgb(210, 210, 210);
 }
 
+/* BACKGROUND */
+
 #container {/* Width of the container relative to the viewport */
     top: 1em;
     justify-content: center;
@@ -60,6 +64,27 @@ a:hover {
     width: 100%; /* Ensure the image fills the container */
     height: auto; /* Maintain aspect ratio */
     display: block; /* Remove extra space below the image */
+}
+
+/* CITY SPOTS */
+
+#city{
+    position: absolute;
+    top: 34.9%; /* Adjust top position */
+    left: 28.3%; /* Adjust left position */
+    z-index: 10; /* Ensure SVG is above the image */
+}
+
+#city:hover{
+    fill: rgba(0, 0, 255, 0); /* Hover effect */  
+}
+
+#cityoutline {
+    width: 100%; /* Ensure the image fills the container */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Remove extra space below the image */ 
+    position: absolute;
+    visibility: hidden;
 }
 
 #monitor {
@@ -83,17 +108,6 @@ a:hover {
 
 #typewritervector:hover{
     fill: rgba(22, 22, 165, 0); /* Hover effect */
-}
-
-#city{
-    position: absolute;
-    top: 34.9%; /* Adjust top position */
-    left: 28.3%; /* Adjust left position */
-    z-index: 10; /* Ensure SVG is above the image */
-}
-
-#city:hover{
-    fill: rgba(0, 0, 255, 0); /* Hover effect */  
 }
 
 #cv {
