@@ -1,5 +1,3 @@
-// 
-
 const background = document.getElementById("image");
 
 // City Spots
@@ -14,29 +12,28 @@ cityRect.addEventListener("mouseout", function() {
 });
 
 // Projects
-
 const monitorRect = document.getElementById("monitor-vector");
+const monitorOutline = document.getElementById("monitoroutline");
 monitorRect.addEventListener("mouseover", function() {
-    background.src = 'assets/backgroundmonitor.png';
+    monitorOutline.style.visibility = "visible";
 });
 
 monitorRect.addEventListener("mouseout", function() {
-    background.src = 'assets/background.gif';
+    monitorOutline.style.visibility = "hidden";
 });
 
 // Blog
-
 const typewriterRect = document.getElementById("typewriter-vector");
+const typewriterOutline = document.getElementById("typewriteroutline");
 typewriterRect.addEventListener("mouseover", function() {
-    background.src = 'assets/backgroundtypewriter.png';
+    typewriterOutline.style.visibility = "visible";
 });
 
 typewriterRect.addEventListener("mouseout", function() {
-    background.src = 'assets/background.gif';
+    typewriterOutline.style.visibility = "hidden";
 });
 
 // About 
-
 const cvRect = document.getElementById("cv-vector");
 cvRect.addEventListener("mouseover", function() {
     background.src = 'assets/backgroundabout.png';
