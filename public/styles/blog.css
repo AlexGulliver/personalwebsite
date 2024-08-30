@@ -5,7 +5,7 @@
   } 
 
 body {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
 }
 
 #titlebox {
@@ -16,19 +16,25 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
     justify-content: space-between;
+    color: rgb(255, 255, 255);
 }
 
 #backbutton {
     font-size: 1.5em;
     text-decoration: none;
-    background-color: lightgrey;
-    border: black;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+#backbutton:hover{
+    background-color: rgb(95, 95, 95); 
 }
 
 #contentbox {
     margin: auto;
     max-width: 600px;
     font-size: 0px;
+    color: white;
 }
 
 #link {
@@ -45,5 +51,5 @@ body {
 }
 
 #link:hover{
-    background-color: rgb(194, 194, 194);
+    background-color: rgb(95, 95, 95);
 }

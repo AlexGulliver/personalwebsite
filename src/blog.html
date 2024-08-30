@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog</title>
+    <link rel="stylesheet" href="/styles/blog.css">
+</head>
+<body>
+
+    <div id="titlebox">
+        <a id="backbutton" href="../">Back</a>
+        <h1 id="title">Blog</h1>
+        <div></div>
+    </div>
+    {% for blog in collections.blog reversed %}
+    <div id="contentbox">
+        <a id="link" href="{{ post.url }}">
+            <h2>{{ blog.data.title }}</h2>
+            <h2>{{ blog.data.date | date: "%Y-%m-%d"  }}</h2>
+        </a>
+    </div>
+    {% endfor %}    
+</body>
+</html>
