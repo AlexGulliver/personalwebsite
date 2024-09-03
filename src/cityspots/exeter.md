@@ -1,14 +1,6 @@
 ---
 title: Exeter 
 ---
-
-1. Food(#Eat / Drink)
-2. Drink
-3. Nature
-4. Shops
-5. Spots
-
-
 ## Eat
 
 #### eat the bird - Sidwell Street

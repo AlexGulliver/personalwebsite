@@ -1,14 +1,6 @@
 ---
 title: Bristol
 ---
-
-1. Food
-2. Drink
-3. Nature
-4. Shops
-5. Spots
-6. Non-recommendations
-
 ## Food
 
 
@@ -91,6 +83,10 @@ Goats and views, need I say more?
 #### Severn Beach
 
 Train makes this an easy day out, wouldn't pack any towels though.
+
+#### Bristol Beacon
+
+Where all the council tax went.
 
 ## Non-recommendations
 Things I don't think are worth your time.
