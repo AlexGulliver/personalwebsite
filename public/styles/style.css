@@ -2,9 +2,9 @@ body {
     background-color: var(--background);
     margin: 0;
     padding: 0;
-    justify-content: center; /* Center content horizontally */
-    align-items: center; /* Center content vertically */
-    height: 100vh; /* Full viewport height */
+    justify-content: center;
+    align-items: center; 
+    height: 100vh;
     overflow-y: hidden;
 }
 
@@ -20,16 +20,15 @@ body {
     display: block;
     width: 100%;
     height: 100%;
-    background: var(--background);
 }
 
 #logo {
     height: 180px;
-    background: var(--background);
+    background-color: transparent;
 }
 
 #undertext{
-    background: var(--background);   
+    background: transparent;
     width: 100%;
     height: 100%;
 }
@@ -37,7 +36,7 @@ body {
 /* NAVBAR */
 
 #navbar {
-    background-color: var(--background);
+    background-color: transparent;
     font-size: 4em;
     width: 100%;
     text-decoration: none;
@@ -63,23 +62,23 @@ a:hover {
 
 /* BACKGROUND */
 
-#container {/* Width of the container relative to the viewport */
+#container {
     margin: auto;
-    max-width: 900px; /* Maximum width of the container */
+    max-width: 900px;
     position: relative;
     top: 50%;
-    transform: translateY(-50%); /* or try 50% */
-    background: var(--background);
+    transform: translateY(-50%); 
+    background-color: rgb(40, 40, 40);
     display: flex;
 }
 
 #image-container {
-    position: relative; /* Position SVG absolutely within this container */
+    position: relative;
 }
 
 #image { 
-    height: auto; /* Maintain aspect ratio */
-    display: block; /* Remove extra space below the image */
+    height: auto; 
+    display: block; 
     max-width: 450px;
 }
 
@@ -87,15 +86,15 @@ a:hover {
 
 #city{
     position: absolute;
-    top: 20.3%; /* Adjust top position */
-    left: 1.95%; /* Adjust left position */
-    z-index: 10; /* Ensure SVG is above the image */
-    fill: rgba(255, 255, 255, 0); /* Hover effect */ 
+    top: 20.3%; 
+    left: 1.95%; 
+    z-index: 10; 
+    fill: rgba(255, 255, 255, 0);
 }
 
 #cityoutline {
-    height: auto; /* Maintain aspect ratio */
-    display: block; /* Remove extra space below the image */
+    height: auto;
+    display: block;
     max-width: 450px;
     position: absolute;
     visibility: hidden;
@@ -105,15 +104,15 @@ a:hover {
 
 #monitor {
     position: absolute; /* Position SVG on top of the image */
-    top: 57.8%; /* Adjust top position */
-    left: 7.3%; /* Adjust left position */
-    z-index: 10; /* Ensure SVG is above the image */
-    fill: rgba(253, 253, 255, 0); /* Hover effect */
+    top: 57.8%; 
+    left: 7.3%; 
+    z-index: 10; 
+    fill: rgba(253, 253, 255, 0); 
 }
 
 #monitoroutline {
-    height: auto; /* Maintain aspect ratio */
-    display: block; /* Remove extra space below the image */
+    height: auto; 
+    display: block; 
     max-width: 450px;
     position: absolute;
     visibility: hidden;
@@ -122,21 +121,21 @@ a:hover {
 /* BLOG */
 
 #typewriter {
-    position: absolute; /* Position SVG on top of the image */
+    position: absolute; 
     clip-path: polygon(37% 52%, 100% 52%, 100% 100%, 0 100%);
-    top: 58.5%; /* Adjust top position */
-    left: 26%; /* Adjust left position */
-    z-index: 10; /* Ensure SVG is above the image */
+    top: 58.5%; 
+    left: 26%; 
+    z-index: 10; 
     background-color: rgba(255, 255, 255, 0);
 }
 
 #typewritervector:hover{
-    fill: rgb(13, 13, 218); /* Hover effect */
+    fill: rgb(13, 13, 218);
 }
 
 #typewriteroutline {
-    height: auto; /* Maintain aspect ratio */
-    display: block; /* Remove extra space below the image */
+    height: auto;
+    display: block; 
     max-width: 450px;
     position: absolute;
     visibility: hidden;
@@ -145,18 +144,53 @@ a:hover {
 /* ABOUT */
 
 #cv {
-    position: absolute; /* Position SVG on top of the image */
+    position: absolute; 
     clip-path: polygon(11% 15%, 59% 11%, 66% 94%, 17% 98%);
-    top: 43%; /* Adjust top position */
-    left: 18%; /* Adjust left position */
-    z-index: 10; /* Ensure SVG is above the image */
-    fill: rgba(255, 255, 255, 0); /* Hover effect */
+    top: 43%;
+    left: 18%; 
+    z-index: 10; 
+    fill: rgba(255, 255, 255, 0); 
 }
 
 #aboutoutline {
-    height: auto; /* Maintain aspect ratio */
-    display: block; /* Remove extra space below the image */
+    height: auto; 
+    display: block; 
     max-width: 450px;
     position: absolute; 
     visibility: hidden;
+}
+
+@media screen and (max-width: 768px) {
+    /* Hide all elements except for the image */
+    #sidemenu, #navbar, #city, #monitor, #typewriter, #cv {
+        display: none;
+    }
+
+    /* Make sure body takes the full viewport */
+    body {
+        margin: 0;
+        padding: 0;
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
+    }
+
+    /* Ensure the image container takes full viewport and centers the image */
+    #image-container {
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #image {
+        max-width: 100vw; 
+        max-height: 100vh; 
+        width: auto; 
+        height: auto; 
+    }
 }
