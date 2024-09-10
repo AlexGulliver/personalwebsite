@@ -2,9 +2,9 @@ body {
     background-color: var(--background);
     margin: 0;
     padding: 0;
-    justify-content: center; /* Center content horizontally */
-    align-items: center; /* Center content vertically */
-    height: 100vh; /* Full viewport height */
+    justify-content: center;
+    align-items: center; 
+    height: 100vh;
     overflow-y: hidden;
 }
 
@@ -14,16 +14,35 @@ body {
     font-style: normal;
   }
 
+/* SIDEMENU */
+
+#sidemenu {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+#logo {
+    height: 180px;
+    background-color: transparent;
+}
+
+#undertext{
+    background: transparent;
+    width: 100%;
+    height: 100%;
+}
+
 /* NAVBAR */
 
 #navbar {
-    margin: auto;
-    background-color: var(--background);
-    height: 1em;
-    font-size: 2.5em;
+    background-color: transparent;
+    font-size: 4em;
+    width: 100%;
     text-decoration: none;
     font-family: Tiny5;
     text-align: center;
+    margin: auto;
 }
 
 a {
@@ -37,52 +56,46 @@ ul {
     padding: 0;
   }
 
-li {
-    display: inline;
-    padding-inline: 0.4em;
-}
-
 a:hover {
     color: rgb(210, 210, 210);
 }
 
 /* BACKGROUND */
 
-#container {/* Width of the container relative to the viewport */
-    top: 1em;
-    justify-content: center;
+#container {
     margin: auto;
-    max-width: 1100px; /* Maximum width of the container */
-    position: relative; /* Establishes positioning context for children */
+    max-width: 900px;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%); 
+    background-color: rgb(40, 40, 40);
+    display: flex;
 }
 
 #image-container {
-    position: relative; /* Position SVG absolutely within this container */
+    position: relative;
 }
 
-#image {
-    width: 100%; /* Ensure the image fills the container */
-    height: auto; /* Maintain aspect ratio */
-    display: block; /* Remove extra space below the image */
+#image { 
+    height: auto; 
+    display: block; 
+    max-width: 450px;
 }
 
 /* CITY SPOTS */
 
 #city{
     position: absolute;
-    top: 34.9%; /* Adjust top position */
-    left: 28.3%; /* Adjust left position */
-    z-index: 10; /* Ensure SVG is above the image */
-}
-
-#city:hover{
-    fill: rgba(0, 0, 255, 0); /* Hover effect */  
+    top: 20.3%; 
+    left: 1.95%; 
+    z-index: 10; 
+    fill: rgba(255, 255, 255, 0);
 }
 
 #cityoutline {
-    width: 100%; /* Ensure the image fills the container */
-    height: auto; /* Maintain aspect ratio */
-    display: block; /* Remove extra space below the image */ 
+    height: auto;
+    display: block;
+    max-width: 450px;
     position: absolute;
     visibility: hidden;
 }
@@ -91,19 +104,16 @@ a:hover {
 
 #monitor {
     position: absolute; /* Position SVG on top of the image */
-    top: 56%; /* Adjust top position */
-    left: 20%; /* Adjust left position */
-    z-index: 10; /* Ensure SVG is above the image */
-}
-
-#monitorvector:hover {
-    fill: rgba(0, 0, 255, 0); /* Hover effect */
+    top: 57.8%; 
+    left: 7.3%; 
+    z-index: 10; 
+    fill: rgba(253, 253, 255, 0); 
 }
 
 #monitoroutline {
-    width: 100%; /* Ensure the image fills the container */
-    height: auto; /* Maintain aspect ratio */
-    display: block; /* Remove extra space below the image */ 
+    height: auto; 
+    display: block; 
+    max-width: 450px;
     position: absolute;
     visibility: hidden;
 } 
@@ -111,44 +121,76 @@ a:hover {
 /* BLOG */
 
 #typewriter {
-    position: absolute; /* Position SVG on top of the image */
-    clip-path: polygon(34% 54%, 100% 54%, 100% 100%, 0 100%);
-    top: 57%; /* Adjust top position */
-    left: 36.3%; /* Adjust left position */
-    z-index: 10; /* Ensure SVG is above the image */
-    background-color: rgba(0, 0, 255, 0);
+    position: absolute; 
+    clip-path: polygon(37% 52%, 100% 52%, 100% 100%, 0 100%);
+    top: 58.5%; 
+    left: 26%; 
+    z-index: 10; 
+    background-color: rgba(255, 255, 255, 0);
 }
 
 #typewritervector:hover{
-    fill: rgba(13, 13, 218, 0); /* Hover effect */
+    fill: rgb(13, 13, 218);
 }
 
 #typewriteroutline {
-    width: 100%; /* Ensure the image fills the container */
-    height: auto; /* Maintain aspect ratio */
-    display: block; /* Remove extra space below the image */ 
+    height: auto;
+    display: block; 
+    max-width: 450px;
     position: absolute;
-    visibility: hidden; 
+    visibility: hidden;
 }
 
 /* ABOUT */
 
 #cv {
-    position: absolute; /* Position SVG on top of the image */
-    clip-path: polygon(8% 15%, 56% 10%, 71% 92%, 23% 98%);
-    top: 37%; /* Adjust top position */
-    left: 62%; /* Adjust left position */
-    z-index: 10; /* Ensure SVG is above the image */
-}
-
-#cvvector:hover{
-    fill: rgba(0, 0, 255, 0); /* Hover effect */
+    position: absolute; 
+    clip-path: polygon(11% 15%, 59% 11%, 66% 94%, 17% 98%);
+    top: 43%;
+    left: 18%; 
+    z-index: 10; 
+    fill: rgba(255, 255, 255, 0); 
 }
 
 #aboutoutline {
-    width: 100%; /* Ensure the image fills the container */
-    height: auto; /* Maintain aspect ratio */
-    display: block; /* Remove extra space below the image */ 
-    position: absolute;
-    visibility: hidden;   
+    height: auto; 
+    display: block; 
+    max-width: 450px;
+    position: absolute; 
+    visibility: hidden;
+}
+
+@media screen and (max-width: 768px) {
+    /* Hide all elements except for the image */
+    #sidemenu, #navbar, #city, #monitor, #typewriter, #cv {
+        display: none;
+    }
+
+    /* Make sure body takes the full viewport */
+    body {
+        margin: 0;
+        padding: 0;
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
+    }
+
+    /* Ensure the image container takes full viewport and centers the image */
+    #image-container {
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #image {
+        max-width: 100vw; 
+        max-height: 100vh; 
+        width: auto; 
+        height: auto; 
+    }
 }
