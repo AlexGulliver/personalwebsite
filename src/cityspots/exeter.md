@@ -13,11 +13,11 @@ The epicentre of Exeter's nightlife. The most amazing hybrid of a pub / club I'v
 
 #### Move - The Quay
 
-Dingy club hosting suprisingly big names every so often. Expensive but had some of the best times here.
+Dingy club hosting suprisingly big names every so often. Drinks are so expensive but had some of the best times here.
 
 #### The Imperial - 'Impy' - St Davids
 
-Allegedly the 2nd biggest Spoons in the entire UK. Worth a look with a nice beer garden, if you aren't on the hill.
+Allegedly the 2nd biggest Spoons in the entire UK. Worth a look with a quality beer garden which is a bit hilly.
 
 ## Spots
 

@@ -1,0 +1,42 @@
+body {
+    /* background-color: var(--background); */
+    background-color: var(--background);
+}
+
+.tiny5-regular {
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#heading {
+    color: var(--primary);
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+    font-family: Tiny5;
+    font-size: 5em;
+}
+
+#citymenu {
+    max-width: 600px;
+    margin: auto;
+}
+
+#citylink {
+    background-color: var(--secondary);
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    color: var(--primary);
+}
+
+#citylink:hover{
+    background-color: var(--accent);
+}
+
+#link{
+    text-decoration: none;
+    font-size: 2em;
+    font-family: "Tiny5";
+}

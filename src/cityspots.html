@@ -1,11 +1,33 @@
----
-layout: cityspotslayout.html
-title: City Spots
----
-{% for cityspot in collections.cityspots %}
-<h2><a href="{{ cityspot.url }}">{{ cityspot.data.title }} </a></h2>
-<div>{{ cityspot.data.description }}</div>
-{% endfor %}
-
-<img src="https://maps.googleapis.com/maps/api/staticmap?center=Berkeley,CA&zoom=14&size=400x400&key=YOUR_API_KEY&signature=YOUR_SIGNATURE
-" alt="">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/styles/main.css">
+    <link rel="stylesheet" href="/styles/cityspots.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Tiny5&display=swap" rel="stylesheet">
+    <title>City Spots</title>
+</head>
+<body>
+    <h1 id="heading">CITY SPOTS</h1>
+    <div id="citymenu">
+        {% for cityspot in collections.cityspots %}
+            <a id="link" href="{{ cityspot.url }}">
+                <div id="citylink">
+                    <div id="image"></div>
+                    {% if cityspot.data.title == "Bristol" %}
+                        <img src="/assets/bristol.png" alt="">
+                    {% endif %}
+                    {% if cityspot.data.title == "Exeter" %}
+                        <img src="/assets/exeter.png" alt="">
+                    {% endif %}
+                    <div>{{ cityspot.data.title }} </div>
+                    <!-- <div id="description">{{ cityspot.data.description }}</div> -->
+                </div>
+            </a>
+        {% endfor %}
+    </div>
+</body>
+</html>
