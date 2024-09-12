@@ -40,3 +40,8 @@ body {
     font-size: 2em;
     font-family: "Tiny5";
 }
+
+img {
+    height: auto;
+    max-width: 100%;
+}
