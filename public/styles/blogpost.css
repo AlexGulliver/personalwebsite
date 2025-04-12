@@ -4,8 +4,15 @@
            box-sizing: border-box;
  }
 
-body {
-   background-color: rgb(255, 255, 255);
+ :root {
+   --primary: rgb(190, 204, 215);
+   --secondary: rgb(38, 42, 47);
+   --accent: rgb(231, 231, 231);
+   --background:rgb(17, 19, 21);
+}
+
+ body {
+   background-color: rgb(17, 19, 21);
 }
 
 #titlebox {
@@ -13,6 +20,7 @@ body {
    width: 50%;
    text-align: center;
    font-family: Arial, Helvetica, sans-serif;
+   color: var(--primary);
 }
 
 #contentbox {
@@ -20,6 +28,10 @@ body {
    max-width: 600px; 
    font-size: 18px;
    font-family: Arial, Helvetica, sans-serif;
+}
+
+#content {
+   color:var(--primary);
 }
 
 #link:hover{
