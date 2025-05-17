@@ -24,8 +24,8 @@
     {% for blog in collections.blog reversed %}
         {% if blog.data.progress != "WIP" %}
 
-        <div id="contentbox">
-            <a id="link" href="{{ blog.url }}">
+        <div id="blogcontentbox">
+            <a id="bloglink" href="{{ blog.url }}">
                 <h2 id="blogtitle">{{ blog.data.title }}</h2>
                 <h2 id="blogdate">{{ blog.data.date | readableDate }}</h2>
                 <p id="blogdescription">{{blog.data.description}}</p>

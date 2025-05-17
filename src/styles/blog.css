@@ -36,7 +36,7 @@ body {
     color: var(--accent);
 } */
 
-#contentbox {
+#blogcontentbox {
     margin: auto;
     max-width: 600px;
     font-size: 0px;
@@ -46,7 +46,7 @@ body {
     color: #4b433e;
 }
 
-#link {
+#bloglink {
     text-decoration: none;
 }
 

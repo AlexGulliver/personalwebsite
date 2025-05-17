@@ -1,7 +1,7 @@
 ---
 title: Making this Website 
 date: 2024-08-27
-description: An overview on how I made this website.
+description: An overview of how I made this website.
 ---
 
 Welcome to my personal website! This first post will outline how this website was created.
