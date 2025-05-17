@@ -1,6 +1,7 @@
 --- 
 title: Good Conversations
 date: 2025-04-13
+progress: WIP
 ---
 
 <figure style="max-width: 100%; margin: auto; text-align: center;">
@@ -16,11 +17,11 @@ I am writing this essay as an exercise and not as an expert, but to mark what I 
 
 *If you want to prompt someone to be authentic and playful and generative, you usually just need to ask them something where they have a rich experience to pull from but have never pulled an answer from that experience before. If you ask two or three increasingly detailed questions about something they tell you, you get there - Henrik Karlsson*
 
-*also Henrik - wildly generative*
+<!-- *also Henrik - wildly generative* -->
 
 #### Online conversations
 
-Not my preferred way of communication but I think it wouldn't be fair to not include them. I've elaborated my thoughts on every category but I have noticed that my opinion on each can change on context and the medium too.
+Not my preferred way of method but its not fair to not include them. I've elaborated my thoughts on every category but I have noticed that my opinion on each can change on context and the medium too.
 
 Texting
 When I was younger I texted a lot. I could spend hours sitting down and talking to friends this way, sending each other huge paragraphs or just sitting there and typing. That was fun, but as I've gotten older I've lost patience for this and

@@ -1,7 +1,7 @@
 --- 
 title: Curiosity
 date: 2025-05-17
-progress: DONE
+progress: WIP
 ---
 
 <figure style="max-width: 100%; margin: auto; text-align: center;">
