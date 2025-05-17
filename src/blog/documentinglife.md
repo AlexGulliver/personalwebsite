@@ -1,6 +1,7 @@
 --- 
 title: Documenting Life 
 date: 2023-11-19
+description: Thoughts on keeping track of life.
 ---
 
 *N.B. This is an archived Sunday Journal Club entry which I've edited.*
@@ -23,7 +24,7 @@ Taking out your phone can separate you from the present because now you don’t 
 
 A compromise here is recording without looking at the camera. In my experience it is just the worst of both worlds. The actual footage you get isn't great because you aren't monitoring it and the phone recording is still in the back of my mind.
 
-### Journalling
+#### Journalling
 
 Originally I wanted to journal to record events in my life. It started like that but then I realised it was more potent for me to document the inner rather than the external. It is a good way to get my thoughts in order. 
 
@@ -31,7 +32,7 @@ My brain is constantly firing on all cylinders. Rapid thoughts enter and exit my
 
 I think the keys to useful emotional journaling are full confidence no one else will be able to read your entries, followed by pure honesty with yourself. The latter is harder than I would have thought. I catch myself not writing certain things down often.
 
-### Photography
+#### Photography
 
 The beauty of old videos is how much information they capture. You can see people's body language, the way they move and hear them speak.
 

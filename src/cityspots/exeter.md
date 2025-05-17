@@ -9,11 +9,11 @@ title: Exeter
 
 #### Timepiece - City Centre
 
-The epicentre of Exeter's nightlife. The most amazing hybrid of a pub / club I've ever been to.
+The epicentre of Exeter's nightlife. Awesome hybrid of a pub / club. Snoop Dogg left $400,000 here allegedly.
 
 #### Move - The Quay
 
-Dingy club hosting suprisingly big names every so often. Drinks are so expensive but had some of the best times here.
+Dingy club hosting suprisingly big names every so often. Drinks are very expensive but a reliably good time.
 
 #### The Imperial - 'Impy' - St Davids
 

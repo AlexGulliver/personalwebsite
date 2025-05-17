@@ -1,6 +1,7 @@
 --- 
 title: Good Conversations
 date: 2025-04-13
+description: What makes for a good conversation?
 progress: WIP
 ---
 
@@ -11,7 +12,7 @@ progress: WIP
   <figcaption><em>These ladies picked a nice spot for a conversation</em></figcaption>
 </figure>
 
-I am writing this essay as an exercise and not as an expert, but to mark what I know at the moment so I can see how I feel about it in the future. I like reflecting on things like that. Also, this is an invitation for people to share their thoughts so we can all have better conversations.
+I am writing this as an exercise and not necessarily from a place of expertise. Rather to reflect and mark what I know at the moment so I can see how I feel about it in the future. Also, this is an invitation for people to share their thoughts so we can all have better conversations.
 
 #### What makes a good conversation?
 

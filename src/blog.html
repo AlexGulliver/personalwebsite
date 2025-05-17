@@ -9,6 +9,9 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Tiny5&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">    
 </head>
 <body>
 
@@ -17,14 +20,18 @@
         <h1 id="title">Blog</h1>
         <div></div>
     </div>
+    <hr id="line">
     {% for blog in collections.blog reversed %}
         {% if blog.data.progress != "WIP" %}
+
         <div id="contentbox">
             <a id="link" href="{{ blog.url }}">
-                <h2>{{ blog.data.title }}</h2>
-                <h2>{{ blog.data.date | date: "%Y-%m-%d"  }}</h2>
+                <h2 id="blogtitle">{{ blog.data.title }}</h2>
+                <h2 id="blogdate">{{ blog.data.date | readableDate }}</h2>
+                <p id="blogdescription">{{blog.data.description}}</p>
             </a>
         </div>
+        <hr id="line">
         <link rel="stylesheet" href="/styles/main.css">
         <link rel="stylesheet" href="/styles/blogpost.css">
         {% endif %}

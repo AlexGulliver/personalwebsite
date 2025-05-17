@@ -9,6 +9,13 @@ body {
     font-style: normal;
 }
 
+.inter-200 {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+  }
+
 #heading {
     color: var(--primary);
     max-width: 600px;

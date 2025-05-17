@@ -1,6 +1,7 @@
 --- 
 title: Curiosity
 date: 2025-05-17
+description: Thoughts on curiosity, a cool emotion.
 progress: WIP
 ---
 

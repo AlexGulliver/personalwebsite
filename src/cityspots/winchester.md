@@ -1,15 +1,16 @@
 ---
 title: Winchester
+progress: WIP
 ---
 
 #### St Catherines Hill
-What is left of it anyway.
+Classic Winchester day out.
 
 #### The Black Boy
 Cozy pub.
 
 #### Winchester Cathedral (and green)
-Corker of cathedral with pleasant green area to sit in.
+Pleasant green area to sit in.
 
 #### Abbey Gardens 
 Well kept gardens to walk through or relax.

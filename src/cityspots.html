@@ -14,19 +14,21 @@
     <h1 id="heading">CITY SPOTS</h1>
     <div id="citymenu">
         {% for cityspot in collections.cityspots %}
-            <a id="link" href="{{ cityspot.url }}">
-                <div id="citylink">
-                    <div id="image"></div>
-                    {% if cityspot.data.title == "Bristol" %}
-                        <img src="/assets/bristol.png" alt="">
-                    {% endif %}
-                    {% if cityspot.data.title == "Exeter" %}
-                        <img src="/assets/exeter.png" alt="">
-                    {% endif %}
-                    <div>{{ cityspot.data.title }} </div>
-                    <!-- <div id="description">{{ cityspot.data.description }}</div> -->
-                </div>
-            </a>
+            {% if cityspot.data.progress != "WIP" %}
+                <a id="link" href="{{ cityspot.url }}">
+                    <div id="citylink">
+                        <div id="image"></div>
+                        {% if cityspot.data.title == "Bristol" %}
+                            <img src="/assets/bristol.png" alt="">
+                        {% endif %}
+                        {% if cityspot.data.title == "Exeter" %}
+                            <img src="/assets/exeter.png" alt="">
+                        {% endif %}
+                        <div>{{ cityspot.data.title }} </div>
+                        <!-- <div id="description">{{ cityspot.data.description }}</div> -->
+                    </div>
+                </a>
+            {% endif %}
         {% endfor %}
     </div>
 </body>

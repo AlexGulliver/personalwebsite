@@ -26,13 +26,13 @@ Expensive but vibrant part of Bristol's nightlife. The Volunteer, Small Bar, Bee
 
 Cheap pub in city centre.
 
-#### Motion
+#### Motion (RIP)
 
-Infamous club in Bristol that hosts 'bigger' nights if that is your thing. Right next to the train station if you are passing by ;\)
+Infamous club in Bristol that hosts 'bigger' nights if that is your thing. Right by Temple Meads.
 
 #### Bag of Nails - Hotwells
 
-Cosy cat pub. Small place that gets busy so I recommend going at a less common time.
+Cosy cat pub. Small place that gets busy so recommend going at a less common time.
 
 ## Spots
 
@@ -42,7 +42,7 @@ Live the Skin's life and check out the awesome view here.
 
 #### 20th Century Flicks - Christmas Steps
 
-Cool spot to rent DVDs just like the old days. Hosts movie nights if you are keen and good place to get weird recommendations and/or you are looking for something hard to find.
+Cool spot to rent DVDs just like the old days. Hosts movie nights if you are keen and good place to get unique recommendations or if you are looking for something hard to find.
 
 #### The Last Bookshop - Park St
 
@@ -54,7 +54,7 @@ Its SECRET! Easy to miss cafe that has a lovely garden.
 
 #### Clifton Suspension Bridge - Clifton
 
-The first thing that comes up when you look up 'Bristol things to do' but yes, if you are reading this and have not been... what are you doing?!
+The first thing that comes up when you look up 'Bristol things to do'. There for a good reason.
 
 #### Leigh Woods 
 
@@ -62,7 +62,7 @@ Across the bridge are some nice woods to walk through. A nice route is to walk t
 
 #### Ashton Court
 
-Grand estate with deer. Site of Bristol Balloon Festival.
+Grand estate with deer. Site of Bristol Balloon Festival, Love Saves the Day Festival.
 
 #### University Botanic Gardens - Stoke Bishop
 
@@ -82,7 +82,7 @@ Train makes this an easy day out, wouldn't pack any towels though.
 
 #### Bristol Beacon
 
-Concert hall in city centre. Allegedly where all the council tax went.
+Concert hall.
 
 ## Non-recommendations
 Things I don't think are worth your time.

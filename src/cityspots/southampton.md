@@ -5,7 +5,7 @@ title: Southampton
 Free modern art gallery.
 
 #### Southampton City Art Gallery
-Another free art gallery for people that turn their nose at modern art.
+Another free art gallery.
 
 #### Mayflower Park
 Nice park with view of the Solent and usually a massive cruise ship too.
@@ -20,7 +20,7 @@ Good walks here.
 Nearby national park with wild horses.
 
 #### Beatnik Emporium
-Reasonably priced vintage clothing.
+Reasonably priced vintage clothing. Good variety and selection.
 
 #### The Hobbit Pub
 Lords of the Rings themed pub, very cool.
