@@ -5,14 +5,14 @@
  }
 
  :root {
-   --primary: rgb(190, 204, 215);
-   --secondary: rgb(38, 42, 47);
-   --accent: rgb(231, 231, 231);
-   --background:rgb(17, 19, 21);
+   --primary: #4b433e;
+   --secondary: #ece7d8
+   --accent: #3e3e3e;
+   --background: #fdfbf7;
 }
 
  body {
-   background-color: rgb(17, 19, 21);
+   background-color: #ece7d8;
 }
 
 #titlebox {
@@ -28,6 +28,7 @@
    max-width: 600px; 
    font-size: 18px;
    font-family: Arial, Helvetica, sans-serif;
+   color: #ece7d8;
 }
 
 #content {

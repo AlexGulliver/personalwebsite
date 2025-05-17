@@ -1,5 +1,5 @@
 --- 
-title: Documenting my life
+title: Documenting Life 
 date: 2023-11-19
 ---
 

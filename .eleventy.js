@@ -2,6 +2,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy('./src/assets')
     eleventyConfig.addPassthroughCopy('./src/styles/.')
     eleventyConfig.addPassthroughCopy('./src/scripts/.')
+    eleventyConfig.addPassthroughCopy('./src/blog/assets')
     // Return your Object options:
     return {
       dir: {

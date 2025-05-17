@@ -18,14 +18,16 @@
         <div></div>
     </div>
     {% for blog in collections.blog reversed %}
-    <div id="contentbox">
-        <a id="link" href="{{ blog.url }}">
-            <h2>{{ blog.data.title }}</h2>
-            <h2>{{ blog.data.date | date: "%Y-%m-%d"  }}</h2>
-        </a>
-    </div>
-    <link rel="stylesheet" href="/styles/main.css">
-    <link rel="stylesheet" href="/styles/blogpost.css">
+        {% if blog.data.progress != "WIP" %}
+        <div id="contentbox">
+            <a id="link" href="{{ blog.url }}">
+                <h2>{{ blog.data.title }}</h2>
+                <h2>{{ blog.data.date | date: "%Y-%m-%d"  }}</h2>
+            </a>
+        </div>
+        <link rel="stylesheet" href="/styles/main.css">
+        <link rel="stylesheet" href="/styles/blogpost.css">
+        {% endif %}
     {% endfor %}    
 </body>
 </html>

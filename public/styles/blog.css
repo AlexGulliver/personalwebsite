@@ -5,7 +5,7 @@
   } 
 
 body {
-    background-color: rgb(17, 19, 21);
+    background-color: rgb(103, 168, 232);
 }
 
 #titlebox {
@@ -16,7 +16,6 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
     justify-content: space-between;
-    color: var(--primary);
 }
 
 #backbutton {
@@ -46,7 +45,8 @@ body {
     justify-content: space-between;
     align-items: center;
     font-family: Arial, Helvetica, sans-serif;
-    color: var(--primary);
+    color: #4b433e;
+    
 }
 
 #link:hover{
