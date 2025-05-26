@@ -1,6 +1,16 @@
 ---
 title: Southampton
 ---
+
+My hometown. Nothing glamorous but it has its moments.
+
+
+## Contents
+- [Food](#food)
+- [Drink](#drink)
+- [Spots](#spots)
+
+
 #### John Hansard Gallery
 Free modern art gallery.
 

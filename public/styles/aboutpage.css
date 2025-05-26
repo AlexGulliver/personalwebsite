@@ -18,11 +18,12 @@
  }
 
 #photo {
-    max-width: 500px;
+    max-width: 600px;
+    margin: auto;
 }
 
 #abouttext {
     font-size: 16px;
-    max-width: 500px;
+    max-width: 600px;
     margin: auto;
 }

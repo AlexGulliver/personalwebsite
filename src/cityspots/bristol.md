@@ -1,6 +1,14 @@
 ---
 title: Bristol
 ---
+
+*Lovely lovely Bristol. I spent my placement year here and tried to do as much exploring as I could. There are so many hidden spots and different areas with their own vibe and feeling.*
+
+## Contents
+- [Food](#food)
+- [Drink](#drink)
+- [Spots](#spots)
+
 ## Food
 
 
@@ -83,16 +91,3 @@ Train makes this an easy day out, wouldn't pack any towels though.
 #### Bristol Beacon
 
 Concert hall.
-
-## Non-recommendations
-Things I don't think are worth your time.
-
-#### V-Shed - Harbourside
-
-First ever Wetherspoons I've had to pay entry to go inside. Might as well have thrown that money into the water. Dancefloor opens on Saturday night.
-
-#### Cabot Circus - Broadmead
-
-A LEGO store is the only redeeming part of this place.
-
-#### The Galleries 

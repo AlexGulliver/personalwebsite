@@ -1,3 +1,6 @@
+const markdownIt = require("markdown-it");
+const markdownItAnchor = require("markdown-it-anchor");
+
 module.exports = function(eleventyConfig) {
   // Add readableDate filter
   eleventyConfig.addFilter("readableDate", (dateObj) => {
@@ -18,6 +21,19 @@ module.exports = function(eleventyConfig) {
 
     return `${day}${getOrdinal(day)} ${month} ${year}`;
   });
+
+  // Markdown-it with anchor plugin
+  const options = {
+    html: true
+  };
+
+  const markdownLib = markdownIt(options).use(markdownItAnchor, {
+    // Just add IDs – no permalink icon or visible link
+    permalink: false,
+    slugify: s => s.trim().toLowerCase().replace(/[^\w]+/g, '-')
+  });
+
+  eleventyConfig.setLibrary("md", markdownLib);
 
   // Passthrough copy settings
   eleventyConfig.addPassthroughCopy('./src/assets');

@@ -1,7 +1,17 @@
 ---
 title: Exeter 
 ---
-## Eat
+
+Exeter is my university city. It's small and you could probably see most of it in a day. It's location is great if you like getting outdoors being not far from the beach, Dartmoor and the rest of Devon and Cornwall.
+
+
+## Contents
+- [Food](#food)
+- [Drink](#drink)
+- [Spots](#spots)
+
+
+## Food
 
 #### eat the bird - Sidwell Street
 
