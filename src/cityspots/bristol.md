@@ -36,7 +36,7 @@ Cheap pub in city centre.
 
 #### Motion (RIP)
 
-Infamous club in Bristol that hosts 'bigger' nights if that is your thing. Right by Temple Meads.
+Had some great nights here. Right next to Temple Meads which was very convenient.
 
 #### Bag of Nails - Hotwells
 
