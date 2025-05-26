@@ -2,7 +2,7 @@
 title: Southampton
 ---
 
-My hometown. Nothing glamorous but it has its moments.
+*My hometown. Not glamorous but it has its moments.*
 
 
 ## Contents
@@ -10,6 +10,15 @@ My hometown. Nothing glamorous but it has its moments.
 - [Drink](#drink)
 - [Spots](#spots)
 
+## Drink
+
+#### The Hobbit Pub
+Lords of the Rings themed pub, very cool.
+
+#### The Joiners
+Famous music venue.
+
+## Spots
 
 #### John Hansard Gallery
 Free modern art gallery.
@@ -32,14 +41,25 @@ Nearby national park with wild horses.
 #### Beatnik Emporium
 Reasonably priced vintage clothing. Good variety and selection.
 
-#### The Hobbit Pub
-Lords of the Rings themed pub, very cool.
-
-#### The Joiners
-Famous music venue.
-
 #### Ocean Village
 Nice area to walk around.
 
 #### Vinilo Record Store
 Fancy record store.
+
+## Daytrips
+
+#### New Forest
+Wild horses!
+
+#### Portsmouth
+I'm not supposed to recommend this but its actually not that bad :\)
+
+#### Winchester
+Winchester is a really charming city steeped in history.
+
+#### Lepe
+Good for some fresh air.
+
+#### Bournemouth Beach
+A really good beach only a 40 minute train and a short walk from Southampton Central.

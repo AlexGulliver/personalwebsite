@@ -8,6 +8,7 @@ title: Bristol
 - [Food](#food)
 - [Drink](#drink)
 - [Spots](#spots)
+- [Daytrips](#day-trips)
 
 ## Food
 
@@ -91,3 +92,16 @@ Train makes this an easy day out, wouldn't pack any towels though.
 #### Bristol Beacon
 
 Concert hall.
+
+## Day Trips
+
+#### Cardiff
+Interesting city an hour away.
+
+#### Exeter
+
+#### Bath
+Gorgeous compact city with plenty to see over the course of a day.
+
+#### Clevedon
+Seaside town.

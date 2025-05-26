@@ -2,7 +2,7 @@
 title: Exeter 
 ---
 
-Exeter is my university city. It's small and you could probably see most of it in a day. It's location is great if you like getting outdoors being not far from the beach, Dartmoor and the rest of Devon and Cornwall.
+*Exeter is my university city. It's small and you could probably see most of it in a day. It's location is great if you like getting outdoors being not far from the beach, Dartmoor and the rest of Devon and Cornwall.*
 
 
 ## Contents
@@ -61,3 +61,20 @@ A pleasant walking area right next to the university. Always by you as a student
 #### Physics Building - University
 
 Go to the top for a hidden study room with a view.
+
+## Daytrips
+
+#### Dartmoor
+Good for walks.
+
+#### Spitchwick - Dartmoor
+Really nice spot for swimming and having a relaxing picnic in summer.
+
+#### Exmouth
+Huge beach.
+
+#### Dawlish / Dawlish Warren
+Another good beach option.
+
+#### Cornwall
+More good beach options!
