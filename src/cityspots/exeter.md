@@ -9,6 +9,7 @@ title: Exeter
 - [Food](#food)
 - [Drink](#drink)
 - [Spots](#spots)
+- [Daytrips](#day-trips)
 
 
 ## Food

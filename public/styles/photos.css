@@ -1,0 +1,23 @@
+.navbar {
+    overflow: hidden;
+  }
+
+  /* Style the links inside the navigation bar */
+.navbar a {
+    float: left;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+
+.right-links {
+    float: right;
+  }
+
+.line {
+    height: 3px;
+    background-color: #4d4d4d;
+    margin: 5px auto;
+}

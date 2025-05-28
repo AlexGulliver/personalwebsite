@@ -10,8 +10,8 @@
    xmp:Rating="1"
    xmpMM:DerivedFrom="conversation.jpg"
    darktable:import_timestamp="63883078627323898"
-   darktable:change_timestamp="63883078710565088"
-   darktable:export_timestamp="63883078751431524"
+   darktable:change_timestamp="63883078811698973"
+   darktable:export_timestamp="63883078814837750"
    darktable:print_timestamp="-1"
    darktable:xmp_version="5"
    darktable:raw_params="0"
@@ -19,7 +19,7 @@
    darktable:history_end="8"
    darktable:iop_order_version="3"
    darktable:history_basic_hash="276b905b5a3ded4dea46110c7116222b"
-   darktable:history_current_hash="e410b7e7a37ed49fa28df65b73047315">
+   darktable:history_current_hash="ad2d2ad3f91e9031ebed1068e2f5ee89">
    <darktable:masks_history>
     <rdf:Seq/>
    </darktable:masks_history>
@@ -107,7 +107,7 @@
       darktable:operation="exposure"
       darktable:enabled="1"
       darktable:modversion="6"
-      darktable:params="0000000000000000f8289c3f00004842000080c000000000"
+      darktable:params="0000000000000000a8f1823f00004842000080c000000000"
       darktable:multi_name=""
       darktable:multi_name_hand_edited="0"
       darktable:multi_priority="0"
