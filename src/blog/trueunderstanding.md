@@ -1,7 +1,7 @@
 --- 
-title: Template 
+title: True Understanding 
 date: 2000-01-01
-description: 
+
 progress: WIP
 ---
 
@@ -12,6 +12,6 @@ progress: WIP
   <figcaption><em>CAPTION</em></figcaption>
 </figure>
 
-#### This is a subheading
+#### Can we truly understand one another?
 
-This is some text.
+This will be fun to think about.

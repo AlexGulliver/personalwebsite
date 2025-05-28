@@ -9,7 +9,7 @@ title: Southampton
 - [Food](#food)
 - [Drink](#drink)
 - [Spots](#spots)
-- [Daytrips](#day-trips)
+- [Daytrips](#daytrips)
 
 ## Drink
 

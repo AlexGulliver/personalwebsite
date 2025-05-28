@@ -38,8 +38,21 @@ body {
     color: var(--primary);
 }
 
+/* #citylink img {
+    max-height: 0px;
+} */
+
 #citylink:hover{
     background-color: var(--accent);
+}
+
+#description {
+    color: var(--primary);
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+    font-family: Tiny5;
+    font-size: 1.5em;
 }
 
 #link{
