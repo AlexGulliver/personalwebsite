@@ -31,6 +31,7 @@
     font-family: Arial, Helvetica, sans-serif;
     color: #ece7d8;
     text-decoration: none;
+    line-height: 1.2;
  }
  
  #content {
@@ -41,3 +42,19 @@
  #link:hover{
     background-color: rgb(144, 144, 144);
  }
+
+ h2, h3, h4, h5, h6 {
+   margin-top: 1em;   /* You can tweak these */
+   margin-bottom: 1em;
+   line-height: 0.5em;
+   text-decoration: none;
+ }
+
+ h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+  text-decoration: none;
+}

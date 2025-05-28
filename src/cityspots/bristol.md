@@ -12,84 +12,84 @@ title: Bristol
 
 ## Food
 
+#### [📍](https://maps.app.goo.gl/yVB2tZpH2w31ZumZ9) St Nicholas' Market 
 
-#### St Nicholas Market
 
-Incredible streetfood selection. Every stall is a banger. Half of my placement wage went on rent in Bristol, this is where the other half went.
+Amazing streetfood. Every stall bangs.
 
-#### Squeezed - Wapping Wharf
+#### [📍](https://maps.app.goo.gl/ZgqR4vx4GEkZMQqT6) Squeezed - Wapping Wharf
 
 Reasonably priced, unreasonably tasty burgers.
 
-#### Moltobuono! - Park Street
+#### [📍](https://maps.app.goo.gl/ZgqR4vx4GEkZMQqT6) Moltobuono! - Park Street
 
 Good Italian food.
 
 ## Drink
 
-#### King Street - City Centre
+#### [📍](https://maps.app.goo.gl/jECYcANfiuX5MAak8) King Street - City Centre
 
 Street filled with pubs. Small Bar, Beer Emporium - The Apple at the end has really strong cider and a waterfront view.
 
-#### The Mother's Ruin
+#### [📍](https://maps.app.goo.gl/ighip8ukKEYTth4S9) The Mother's Ruin
 
 Cheap pub in city centre.
 
-#### Motion (RIP)
-
-Had some great nights here. Right next to Temple Meads which was very convenient.
-
-#### Bag of Nails - Hotwells
+#### [📍](https://maps.app.goo.gl/ww5GWS4P4gP6eaJx8) Bag of Nails - Hotwells
 
 Cosy cat pub. Small place that gets busy so recommend going at a less common time.
 
+#### [📍](https://maps.app.goo.gl/9jexvuUxVXPGv45PA) The Hope & Anchor - Hotwells
+
+Incredible beer garden.
+
 ## Spots
 
-#### Cassie's Bench - Brandon Hill
+#### [📍](https://maps.app.goo.gl/TZaJynomLoy9eYy77) Cassie's Bench - Brandon Hill
 
 Live the Skin's life and check out the awesome view here.
 
-#### 20th Century Flicks - Christmas Steps
+#### [📍](https://maps.app.goo.gl/UStg2mXcXgCJr7fb6) 20th Century Flicks - Christmas Steps
 
 Cool spot to rent DVDs. Hosts movie nights if you are keen and good place to get unique recommendations or if you are looking for something hard to find.
 
-#### The Last Bookshop - Park St
+#### [📍](https://maps.app.goo.gl/89HWARnKptAV4r2o8) The Last Bookshop - Park St
 
 Unfortunately the £5 book shop (was £3 when I arrived in Bristol!) but still good value for money. They sell excess stock so you can find new books for a great price here. 
 
-#### Secret Cafe - City Centre
+#### [📍](https://maps.app.goo.gl/4T3W8DxB4CfZHgsA9) Secret Cafe - City Centre
 
 Its SECRET! Easy to miss cafe with a lovely garden.
 
-#### Clifton Suspension Bridge - Clifton
+#### [📍](https://maps.app.goo.gl/yXerWNtgd6mTf3Jo9) Clifton Suspension Bridge - Clifton
 
 The first thing that comes up when you look up 'Bristol things to do'. There for a good reason.
 
-#### Leigh Woods 
+#### [📍](https://maps.app.goo.gl/a571aetYVNa4cQxM6) Leigh Woods 
 
 Across the bridge are some nice woods to walk through. A nice route is to walk to the end and loop back alongside the Avon. Lots of cool art on the way.
 
-#### Ashton Court
+#### [📍](https://maps.app.goo.gl/o28ovuce4Lqhr4Pq7) Ashton Court
 
 Grand estate with deer. Site of Bristol Balloon Festival, Love Saves the Day Festival.
 
-#### University Botanic Gardens - Stoke Bishop
+#### [📍](https://maps.app.goo.gl/8rFkw6swjyhvRmc79) University Botanic Gardens - Stoke Bishop
 
 Well-kept botanical gardens. Free for students.
 
-#### St Werburgh's City Farm
+#### [📍](https://maps.app.goo.gl/cxWL9whC1V2hfQJFA) St Werburgh's City Farm
 
 Cute farm and cuter animals.
 
-#### Purdown
+#### [📍](https://maps.app.goo.gl/A51zXwXfyFeF3YY4A) Purdown
 
 Goats and views.
 
-#### Severn Beach
+#### [📍](https://maps.app.goo.gl/pse99XQgoZMfwFee8) Severn Beach
 
 Not a great 'beach' but easy to get to on the train and cool view of Wales.
 
-#### Bristol Beacon
+#### [📍](https://maps.app.goo.gl/KGNGkxUMUGekqJB39) Bristol Beacon
 
 Concert hall.
 
@@ -97,8 +97,6 @@ Concert hall.
 
 #### Cardiff
 Interesting city an hour away.
-
-#### Exeter
 
 #### Bath
 Gorgeous compact city with plenty to see over the course of a day.
