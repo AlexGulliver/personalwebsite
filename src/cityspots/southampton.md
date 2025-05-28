@@ -21,6 +21,9 @@ Famous music venue.
 
 ## Spots
 
+#### Guildhall Square
+Next level people watching spot.
+
 #### John Hansard Gallery
 Free modern art gallery.
 
