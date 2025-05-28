@@ -29,7 +29,7 @@ Good Italian food.
 
 #### King Street - City Centre
 
-Expensive but vibrant part of Bristol's nightlife. The Volunteer, Small Bar, Beer Emporium are all cool. The Apple at the end has ridiculously strong cider and a good waterfront view.
+Street filled with pubs. Small Bar, Beer Emporium - The Apple at the end has really strong cider and a waterfront view.
 
 #### The Mother's Ruin
 
@@ -51,7 +51,7 @@ Live the Skin's life and check out the awesome view here.
 
 #### 20th Century Flicks - Christmas Steps
 
-Cool spot to rent DVDs just like the old days. Hosts movie nights if you are keen and good place to get unique recommendations or if you are looking for something hard to find.
+Cool spot to rent DVDs. Hosts movie nights if you are keen and good place to get unique recommendations or if you are looking for something hard to find.
 
 #### The Last Bookshop - Park St
 
@@ -59,7 +59,7 @@ Unfortunately the £5 book shop (was £3 when I arrived in Bristol!) but still g
 
 #### Secret Cafe - City Centre
 
-Its SECRET! Easy to miss cafe that has a lovely garden.
+Its SECRET! Easy to miss cafe with a lovely garden.
 
 #### Clifton Suspension Bridge - Clifton
 
@@ -75,7 +75,7 @@ Grand estate with deer. Site of Bristol Balloon Festival, Love Saves the Day Fes
 
 #### University Botanic Gardens - Stoke Bishop
 
-Well-kept botanical gardens which are a little out of the way but worth the trip. Free for students.
+Well-kept botanical gardens. Free for students.
 
 #### St Werburgh's City Farm
 
@@ -83,11 +83,11 @@ Cute farm and cuter animals.
 
 #### Purdown
 
-Goats and views, need I say more?
+Goats and views.
 
 #### Severn Beach
 
-Train makes this an easy day out, wouldn't pack any towels though.
+Not a great 'beach' but easy to get to on the train and cool view of Wales.
 
 #### Bristol Beacon
 

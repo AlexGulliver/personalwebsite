@@ -22,13 +22,13 @@ Famous music venue.
 ## Spots
 
 #### Guildhall Square
-Next level people watching spot.
+Next level people watching spot. Peaceful flatground skateboarding all day long.
 
 #### John Hansard Gallery
-Free modern art gallery.
+Free modern art gallery. Rotates exhibitions frequently and have seen some cool, very random things here.
 
 #### Southampton City Art Gallery
-Another free art gallery.
+Another free art gallery with a good library for study attached.
 
 #### Mayflower Park
 Nice park with view of the Solent and usually a massive cruise ship too.
@@ -57,13 +57,13 @@ Fancy record store.
 Wild horses!
 
 #### Portsmouth
-I'm not supposed to recommend this but its actually not that bad :\)
+Not supposed to recommend but its actually not that bad :\)
 
 #### Winchester
-Winchester is a really charming city steeped in history.
+A really charming city steeped in history. Cathedral green is amazing in summer.
 
 #### Lepe
-Good for some fresh air.
+Good walking and some fresh air.
 
 #### Bournemouth Beach
-A really good beach only a 40 minute train and a short walk from Southampton Central.
+Closest proper beach. 40 minute train and a short walk from Southampton Central.
