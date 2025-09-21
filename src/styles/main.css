@@ -4,3 +4,7 @@
     --accent: rgb(231, 231, 231);
     --background:rgb(17, 19, 21);
 }
+
+body {
+    margin: 0;
+}

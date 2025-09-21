@@ -8,22 +8,58 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Tiny5&display=swap" rel="stylesheet">
+    <script></script>
     <title>Photos</title>
 </head>
 <body>
-    <div class="navbar">
-        <div class="left-link">
-          <a href="{{ '/' | url }}">ALEX GULLIVER</a>
-        </div>
-        <div class="right-links">
-          <a href="{{ '/photos/' | url }}">Overview</a>
-          <a href="{{ '/photos/collections/' | url }}">Collections</a>
-          <a href="{{ '/photos/about/' | url }}">About</a>
-        </div>
+
+  <!-- <div class="line"></div> -->
+
+  <div class="navbar">
+      <a class="navbarlink" href="home">home</a>
+
+      <div class="dropdown">
+        <button class="dropbtn">collections</button>
+        <div class="dropdown-content">
+          <a href="america">america</a>
+          <a href="party">party</a>
+          <a href="portraits">portraits</a>
+      </div> 
+      <a class="navbarlink" href="contact">contact</a>
+    </div> 
+  </div>
+
+    <!-- <div class="line"></div> -->
+
+
+    <div class="homebox">
+      <div class="homeboxtext">
+        <div>ALEX</div>
+        <div>GULLIVER</div>
+        <div class="category">photography</div>
       </div>
-    <div class="line"></div>
-    <div class="photodisplay">
-        <img src="/photos/overviewphotos/DSCF9720.JPG" alt="">
+
+    <div class="photodisplay">       
+
+      <div class="slideshow-container">
+
+        <div class="mySlides">
+          <img src="/photos/overviewphotos/horse.JPG" style="width:100%">
+        </div>
+
+        <div class="mySlides">
+          <img src="/photos/overviewphotos/america.JPG" style="width:100%">
+        </div>
+
+        <div class="mySlides">
+          <img src="/photos/overviewphotos/skateboard.JPG" style="width:100%">
+        </div>
+
+        <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="next" onclick="plusSlides(1)">&#10095;</a>
+      </div>
     </div>
+    
+    <script src="/scripts/photoscript.js"></script>
 </body>
 </html>
