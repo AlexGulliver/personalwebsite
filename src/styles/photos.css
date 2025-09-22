@@ -1,3 +1,7 @@
+.body {
+  background-color: #ece7d8;
+}
+
 .navbar { 
   display: flex;
   justify-content: center;
