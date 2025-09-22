@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/styles/main.css">
+    <link rel="stylesheet" href="/styles/photos.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Tiny5&display=swap" rel="stylesheet">
+    <script></script>
+    <title>Contact</title>
+</head>
+<body>
+
+  <!-- <div class="line"></div> -->
+
+  <div class="navbar">
+    <a class="navbarlink" href="../photos">home</a>
+
+   <div class="dropdown">
+     <button class="dropbtn">collections</button>
+     <div class="dropdown-content">
+       {% for collection in collections.photocollections %} 
+         <a href="{{ collection.url }}">{{ collection.data.title }}</a>
+       {% endfor %}
+
+  </div> 
+
+  </div> 
+  <a class="navbarlink" href="../contact">contact</a>
+  </div>
+
+    <!-- <div class="line"></div> -->
+
+    <div class="homebox">
+      <div id="abouttext">Want photographs? Planning an adventure? <a href="mailto:alex.gulliver6@gmail.com">email</a> me.
+      <div class="homeboxtext">
+
+        <div>ALEX</div>
+        <div>GULLIVER</div>
+        <div class="category">photography</div>
+      </div>
+
+
+</body>
+</html>
