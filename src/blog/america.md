@@ -6,7 +6,7 @@ progress: IP
 ---
 
 <figure style="max-width: 100%; margin: auto; text-align: center;">
-  <img src="/blog/assets/america.jpg"
+  <img src="/blog/assets/america.JPG"
        alt=""
        style="width: 100%; height: auto; ">
   <figcaption><em>Fourth on the Jersey Shore</em></figcaption>

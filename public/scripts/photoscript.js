@@ -17,3 +17,5 @@ for (i = 0; i < slides.length; i++) {
 slides[slideIndex-1].style.display = "block";
 } 
 
+
+

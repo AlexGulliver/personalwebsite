@@ -16,18 +16,18 @@
   <!-- <div class="line"></div> -->
 
   <div class="navbar">
-      <a class="navbarlink" href="home">home</a>
+       <a class="navbarlink" href="../photos">home</a>
 
       <div class="dropdown">
         <button class="dropbtn">collections</button>
         <div class="dropdown-content">
-          <a href="america">america</a>
-          <a href="party">party</a>
-          <a href="portraits">portraits</a>
+          {% for collection in collections.photocollections %} 
+            <a href="{{ collection.url }}">{{ collection.data.title }}</a>
+          {% endfor %}
 
     </div> 
-  </div> 
-  <a class="navbarlink" href="contact">contact</a>
+  </div>
+  <a class="navbarlink" href="../contact">contact</a>
   </div>
 
     <!-- <div class="line"></div> -->

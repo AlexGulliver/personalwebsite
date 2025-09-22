@@ -41,6 +41,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy('./src/scripts/.');
   eleventyConfig.addPassthroughCopy('./src/blog/assets');
   eleventyConfig.addPassthroughCopy('./src/photos/overviewphotos');
+  eleventyConfig.addPassthroughCopy('./src/photocollections/assets/.');
 
   // Return Eleventy config object
   return {
