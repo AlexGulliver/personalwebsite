@@ -42,7 +42,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy('./src/blog/assets');
   eleventyConfig.addPassthroughCopy('./src/photos/overviewphotos');
   eleventyConfig.addPassthroughCopy('./src/photocollections/assets/.');
-  eleventyConfig.addPassthroughCopy("src/fonts");
+  eleventyConfig.addPassthroughCopy('./src/fonts');
 
   // Return Eleventy config object
   return {
